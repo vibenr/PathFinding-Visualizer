@@ -1,0 +1,12 @@
+.grid {
+    margin: 10px 0 0;
+  }
+
+.title_bar{
+  display: flex;
+  flex-direction: row;
+ padding: 2rem; 
+ justify-content:space-between
+ 
+
+}
